@@ -1,2 +1,2 @@
-# airline-pnr-retrieval
-Airline PNR Retrieval using the web URL's
+# Airline PNR Retrieval
+Using the airlines web URL's retrieval the PRN details of a passenger.
