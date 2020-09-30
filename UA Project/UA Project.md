@@ -34,3 +34,5 @@ Encrypted String (Length w/o =) | Unencrypted String (Length) | Parameter | Conf
 `3vqu3NHsyjI=` (11) | NP2K4P (6) | CN | @DustinLynch
 `VrHC15tW/Vk=` (11) | Lynch (5) | FLN | @DustinLynch
 `TYAcO5IA7pw=` (11) | Smith (5) | FLN | @DustinLynch
+`J5J9q4ZdqX8=` (11) | C4Y8N3 (6) | CN | @DustinLynch
+`QqyNBK+3GEo=` (11) | CELEBI (6) | FLN | @DustinLynch
