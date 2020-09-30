@@ -1,5 +1,5 @@
 # Airline PNR Retrieval
-Use the airline's web URL to retrieve the PRN details of a passenger.
+Use the airline's web URL to retrieve the PNR details of a passenger.
 
 
 ## Alaska Airlines
